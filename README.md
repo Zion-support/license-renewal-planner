@@ -23,3 +23,6 @@ Track software licenses, renewals and true-up exposure in one place.
 - GitHub org: https://github.com/Zion-support
 
 © 2026 Zion Tech Group
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Customer Success & Retention](https://github.com/Zion-support/zion-network/blob/main/network/customer-success-retention.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
